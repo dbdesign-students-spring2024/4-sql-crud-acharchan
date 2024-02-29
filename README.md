@@ -105,13 +105,13 @@ CREATE TABLE posts (
 ```.mode csv
 .import /Users/acharchan/Desktop/4-sql-crud-acharchan/data/users.csv users
 ```
-Here is the link to the [users CSV](/Users/agnac/4-sql-crud-acharchan/data/users.csv)
+Here is the link to the [users CSV](data/users.csv)
 
 ```
 .mode csv
 .import /Users/acharchan/Desktop/4-sql-crud-acharchan/data/posts.csv posts
 ```
-Here is the link to the [posts CSV](/Users/agnac/4-sql-crud-acharchan/data/posts.csv)
+Here is the link to the [posts CSV](data/posts.csv)
 
 Here's an example of how to insert `data` into the users table:
 ```
