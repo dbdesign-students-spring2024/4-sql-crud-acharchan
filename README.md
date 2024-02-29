@@ -41,7 +41,7 @@ To import the data:
 .mode csv
 .import /Users/acharchan/Desktop/4-sql-crud-acharchan/data/restaurants.csv restaurants
 ```
-Here is the link to the [restaurants CSV](/Users/agnac/4-sql-crud-acharchan/data/restaurants.csv)
+Here is the link to the [restaurants CSV](data/restaurants.csv)
 
 ### Queries
 
